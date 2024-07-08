@@ -1,0 +1,88 @@
+html{
+    font-size:16px;
+        }
+        body{
+     background-image:linear-gradient(65deg ,#131524  ,maroon)
+        }
+    h1{
+        color:whitesmoke;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+    }
+    #iota{
+        color:silver;
+        text-align:center;
+        margin-left:2em;
+        margin-right:10em;
+    }
+     #imagemain{
+       width:56%;
+      margin-left:0.5em;
+      transition: width 0.5s;
+      box-shadow:5px 5px 5px 5px gray;
+    }
+    #imagemain:hover{
+        width:65%;
+            }
+    fieldset{
+        width:56%;
+        padding-left:15em;
+        margin-left: 7em;
+        margin-right:7em;
+    }
+    h3{
+        color:whitesmoke;
+        font-family: sans-serif;
+    }
+    #lib{
+        text-decoration: underline;
+        text-align:right;
+        margin-right:9em;
+    }
+    #lib:hover{
+       
+       cursor: pointer;
+    }
+    #aa{
+       text-align: left;
+       margin-left: 0em;
+    }
+    #aa:hover{
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    #songpanel{
+        background-color: black;
+        display:none;
+    }
+    #items0:hover{
+        cursor: pointer;
+        color:blue;
+    }
+        #items1:hover{
+        cursor: pointer;
+        color:blue;
+    }
+    #items2:hover{
+        cursor: pointer;
+        color:blue;
+    }
+    #items3:hover{
+        cursor: pointer;
+        color:blue;
+    }
+    #items4:hover{
+        cursor: pointer;
+        color:blue;
+    }
+    #items5:hover{
+        cursor: pointer;
+        color:blue;
+    }
+   
+
+
+
+
+
+
